@@ -1,11 +1,20 @@
-<div align="center">
+# 🕒 Smart Clock Display
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Una aplicación de reloj a pantalla completa en modo horizontal para Android, diseñada para transformar teléfonos y tablets en docks de mesa interactivos.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Características
+- ⏰ Reloj Horizontal: Pantalla completa limpia y personalizable.
+- 👆 Navegación por Swipe: Cambia fácilmente entre paneles.
+- 🌤️ Clima: Integración con proveedores del sistema o Google Weather.
+- 🎵 Control Multimedia: Botones grandes y memoria del último reproductor usado.
+- ⏱️ Herramientas de Tiempo: Cronómetro, Temporizador, Sistema Pomodoro y Alarmas.
+- 🎛️ Modular: Activa, quita y reordena las pantallas a tu gusto.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🛠️ Tecnologías utilizadas
+- Kotlin / Android Nativo
+- Android Studio
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## 📄 Licencia
+Este proyecto es de código abierto bajo la licencia GPLv3.
+Puedes redistribuirlo y7o modificarlo bajo los términos de la Licencia Publica General GNU (GPLv3) publicada por la Free Software Foundation.
+Consulta el archivo LICENSE para obtener más detalles.
